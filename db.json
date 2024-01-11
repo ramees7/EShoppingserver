@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Hp Lap",
+      "price": "40000",
+      "imageurl": "https://m.media-amazon.com/images/I/81lK9ePIMtL._AC_UF1000,1000_QL80_.jpg",
+      "catagoryname": "3"
+    },
+    {
+      "id": "2",
+      "name": "Iphone 15",
+      "price": "80000",
+      "imageurl": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UF1000,1000_QL80_.jpg",
+      "catagoryname": "2"
+    },
+    {
+      "id": "3",
+      "name": "Iphone 15 Pro",
+      "price": "90000",
+      "imageurl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694674264/Croma%20Assets/Communication/Mobiles/Images/300785_0_ikcks6.png",
+      "catagoryname": "2"
+    },
+    {
+      "id": "rt",
+      "name": "yr",
+      "price": "rtyr",
+      "imageurl": "ryty",
+      "catagoryname": "rtyrt"
+    },
+    {
+      "id": "tyuty",
+      "name": "utyuty",
+      "price": "utyuuyt",
+      "imageurl": "tyu",
+      "catagoryname": "rtyu"
+    },
+    {
+      "id": "22",
+      "name": "Iphone 15",
+      "price": "₹62000",
+      "imageurl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818",
+      "catagoryname": "2"
+    }
+  ],
+  "catagory": [
+    {
+      "id": "1",
+      "catagoryname": "Watches",
+      "catagoryimg": "https://c4.wallpaperflare.com/wallpaper/729/338/570/watch-luxury-watches-ulysse-nardin-wallpaper-preview.jpg",
+      "allproducts": []
+    },
+    {
+      "id": "2",
+      "catagoryname": "Phones",
+      "catagoryimg": "https://fdn.gsmarena.com/imgroot/static/headers/makers/apple-2023-1.jpg",
+      "allproducts": [
+        {
+          "id": "2",
+          "name": "Iphone 15",
+          "price": "80000",
+          "imageurl": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UF1000,1000_QL80_.jpg",
+          "catagoryname": "2"
+        },
+        {
+          "id": "3",
+          "name": "Iphone 15 Pro",
+          "price": "90000",
+          "imageurl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694674264/Croma%20Assets/Communication/Mobiles/Images/300785_0_ikcks6.png",
+          "catagoryname": "2"
+        },
+        {
+          "id": "22",
+          "name": "Iphone 15",
+          "price": "₹62000",
+          "imageurl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818",
+          "catagoryname": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "catagoryname": "Laptop",
+      "catagoryimg": "https://imgeng.jagran.com/images/2023/sep/best%2015%20inch%20laptops%20in%20India1695872319038.jpg",
+      "allproducts": [
+        {
+          "id": "1",
+          "name": "Hp Lap",
+          "price": "40000",
+          "imageurl": "https://m.media-amazon.com/images/I/81lK9ePIMtL._AC_UF1000,1000_QL80_.jpg",
+          "catagoryname": "3"
+        },
+        {
+          "id": "44",
+          "name": "asus tuf gaming",
+          "price": "₹62000",
+          "imageurl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369818",
+          "catagoryname": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "catagoryname": "Tv",
+      "catagoryimg": "https://images.samsung.com/is/image/samsung/p6pim/in/ua32t4380akxxl/gallery/in-hd-t4310-428849-ua32t4380akxxl-537157418?$650_519_PNG$",
+      "allproducts": []
+    },
+    {
+      "id": "6",
+      "catagoryname": "Home Appliances",
+      "catagoryimg": "https://hometown.gumlet.io/media/cms/icons/cookware_600.jpg?w=300&dpr=2.6",
+      "allproducts": []
+    },
+    {
+      "id": "7",
+      "catagoryname": "Childrens",
+      "catagoryimg": "https://www.compliancegate.com/wp-content/uploads/2020/07/children-products-toys-regualtions-hong-kong.jpg",
+      "allproducts": []
+    },
+    {
+      "id": "10",
+      "catagoryname": "Shoe",
+      "catagoryimg": "https://c.static-nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/g1ljiszo4qhthfpluzbt/123-joyride-cdp-apla-xa-xp.jpg",
+      "allproducts": []
+    },
+    {
+      "id": "11",
+      "catagoryname": "Ac",
+      "catagoryimg": "https://healthairindia.com/wp-content/uploads/2020/11/msy-gn-series.png",
+      "allproducts": []
+    },
+    {
+      "id": "13",
+      "catagoryname": "Fan",
+      "catagoryimg": "https://cdn.moglix.com/p/8AaVUfGYSzdpR.jpg",
+      "allproducts": []
+    }
+  ]
+}
